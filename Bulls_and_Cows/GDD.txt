@@ -1,0 +1,13 @@
+# Bulls & Cows Game Design Document
+
+> Requirements:
+>> Inputs:
+>>> Input Text that the user can type with the keyboard
+>> Outputs:
+>>> Ouput Text showing the player how many bulls and cows he's got and also how many tries are left
+>> Tasks:
+>>> Enter Text, Guessing the right word from correct letters
+>> Performance:
+>>> Nothing to worry about
+>> Assets:
+>>> Bulls & Cows Intro ASCII Art and Intro Text
